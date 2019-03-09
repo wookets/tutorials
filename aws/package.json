@@ -1,0 +1,19 @@
+{
+  "name": "aws",
+  "version": "0.1.0",
+  "description": "A place for all the AWS stuff. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "aws"
+  ],
+  "author": "wookets",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "2.256.1",
+    "uuid": "3.2.1",
+    "yargs": "11.0.0"
+  }
+}
